@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/d3efa7da-46d5-4bf4-b709-cce224e32923/resourceGroups/wesley-tan-rg/providers/Microsoft.Web/sites/wesley-tan",
+    "appService.deploySubpath": "."
+}
